@@ -1,0 +1,79 @@
+body{
+    font-family: sans-serif;
+    
+    background-color: lightgray;
+}
+header h1{
+    
+    text-align: right;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    position: relative;
+    bottom: 22px;
+    right: 40px;
+    width: 100vw;
+}
+hr{
+    width: 60%;
+    height: 2px;
+    background-color: black;
+
+}
+section{
+    width: 60%;
+    position: relative;
+    left: 20%;
+    
+}
+section hr{
+    width: 100%;
+    color: white;
+    background-color: white;
+    position: relative;
+    bottom: 20px;
+    height: 3px;
+}
+section header{
+    text-align: center;
+}
+section p.fecha{
+
+    background-color: gray;
+    color: white;
+    box-sizing: content-box;
+    display: inline-block;
+    
+    font-size: 32px;
+    font-weight: bold;
+    position: relative;
+    
+    letter-spacing: 5px;
+   
+}
+span.Grande{
+        font-family: serif;
+        font-size: x-large;
+        border-bottom: red 1px dashed;
+    }
+span.ByR{
+    background-color: white;
+    color: red;
+}
+span.lugares{
+    color: blue;
+}
+
+span.letra{
+    text-transform: uppercase;
+
+    font-weight: bold;
+}
+span.resto{
+    
+    font-variant:small-caps ;
+    font-weight: bold;
+
+}
+
+
